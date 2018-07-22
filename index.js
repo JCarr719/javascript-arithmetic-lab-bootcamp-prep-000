@@ -15,3 +15,8 @@ function inc(n){
   n++
   return(n)
 }
+function dec(n){
+  parseInt(n)
+  n--
+  return(n)
+}

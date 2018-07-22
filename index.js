@@ -16,12 +16,12 @@ function inc(n){
   return(n)
 }
 function dec(n){
-  parseInt(n,10)
+  parseInt(n)
   n--
   return(n)
 }
 function makeInt(n){
-  parseInt(n,'10')
+  parseInt(n,10)
   return(n)
 }
 function preserveDecimal(n){
